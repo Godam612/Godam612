@@ -8,5 +8,5 @@
 - [절대공식#1](https://www.youtube.com/playlist?list=PL0IlD73Ti6v_dWuSadpncQ9JKJstB6YrI)
 
 ## COMPLETE
-- [solved.ac - CLASS 1⁺⁺](https://solved.ac/class/1) (2023.01.19)
-- [solved.ac - 새싹](https://solved.ac/problems/sprout) (2023.01.15)
+- [solved.ac - CLASS 1⁺⁺](https://solved.ac/class/1) (2023-01-19)
+- [solved.ac - 새싹](https://solved.ac/problems/sprout) (2023-01-15)
