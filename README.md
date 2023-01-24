@@ -1,5 +1,5 @@
 # STUDY
 
-## [1.BOOK](BOOK.md)
+## [1. BOOK](BOOK.md)
 
-## [2.COURSE]
+## [2. COURSE](COURSE.md)
