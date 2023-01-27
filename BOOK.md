@@ -10,3 +10,4 @@
 
 ## COMPLETE
 - [<Hello Coding 프로그래밍> - Pope Kim](http://www.yes24.com/Product/Goods/57560258) (2023-01-02)
+  - [reivew](https://medium.com/@godam612/comp0000-다시-공부해본-프로그래밍-기초-feeb6e5f809)
