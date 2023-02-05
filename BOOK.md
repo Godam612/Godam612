@@ -2,7 +2,7 @@
 
 ## NOW
 - [<Code: The Hidden Language of Computer Hardware and Software> - Charles Petzold](https://a.co/d/83XmOUW)
-- [<C Programming Language> -  Kernighan Brian W. and Ritchie Dennis](https://a.co/d/iRg9Onk)
+- [<C Programming Language> - Kernighan Brian W. and Ritchie Dennis](https://a.co/d/e8btCGQ)
 - [<시작하세요! C# 10 프로그래밍> - 정성태](http://www.yes24.com/Product/Goods/114854152)
 - [<실력 수학의 정석 수학 (상)> - 홍성대](http://www.yes24.com/Product/Goods/37525988)
 - [<실력 수학의 정석 수학 (하)> - 홍성대](http://www.yes24.com/Product/Goods/40926656)
