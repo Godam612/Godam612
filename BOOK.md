@@ -1,7 +1,8 @@
 # BOOK
 
 ## NOW
-- [<Code: The Hidden Language of Computer Hardware and Software> - Charles Petzold](https://www.amazon.com/Code-Language-Computer-Hardware-Software-ebook/dp/B0B123P5GV/ref=sr_1_1?crid=3UMUNMTQXCM3R&keywords=CODE&qid=1674582337&s=digital-text&sprefix=c%2Cdigital-text%2C891&sr=1-1)
+- [<Code: The Hidden Language of Computer Hardware and Software> - Charles Petzold](https://a.co/d/83XmOUW)
+- [<C Programming Language> -  Kernighan Brian W. and Ritchie Dennis](https://a.co/d/iRg9Onk)
 - [<시작하세요! C# 10 프로그래밍> - 정성태](http://www.yes24.com/Product/Goods/114854152)
 - [<실력 수학의 정석 수학 (상)> - 홍성대](http://www.yes24.com/Product/Goods/37525988)
 - [<실력 수학의 정석 수학 (하)> - 홍성대](http://www.yes24.com/Product/Goods/40926656)
